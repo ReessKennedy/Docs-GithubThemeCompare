@@ -2,16 +2,6 @@
 
 Alter your theme here: https://github.com/settings/appearance. ⭐ = my preference
 
-[Dark Dimmed](#Dark Dimmed)
-[Dark Default](#Dark Default)
-[Dark High Contrast](#Dark High Contrast)
-[Dark Protanopia & Deuteranopia](#Dark Protanopia & Deuteranopia)
-[Dark Tritanopia](#Dark Tritanopia)
-[Light Default](#Light Default)
-[Light Protanopia & Deuteranopia](#Light Protanopia & Deuteranopia)
-[Light High Contrast](#Light High Contrast)
-[Light Tritanopia](#Light Tritanopia)
-
 ## Dark
 ### Dark Dimmed ⭐ 
 ![](DarkDimmed.png)
